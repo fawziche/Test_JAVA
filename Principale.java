@@ -26,7 +26,7 @@ public class Principale
             else
                 msg = "Trouvé en " + nbCoup + " coups !";
 
-            System.out.println(msg);
+            System.out.println(msg); 
         }
 
     }
